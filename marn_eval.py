@@ -7,7 +7,7 @@ from torchvision import transforms
 from torch.utils.data import DataLoader
 from utils.marn import MARN, Bottleneck
 from utils.utils_sr import roc_model, confusion, metrics_model
-from BronchoscopyClass.DataPreprocessing.BroDataLoader import BronDataset
+from utils.BroDataLoader import BronDataset
 
 if __name__ == '__main__':
     # 添加到 CUDA
