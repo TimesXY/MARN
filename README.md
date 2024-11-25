@@ -20,4 +20,4 @@ DOI: https://doi.org/10.1016/j.compbiomed.2023.107486.
 Furthermore, if you intend to utilize this dataset, please cite the paper as mentioned above.
 
 The dataset can be downloaded at the following address:   
-https://www.kaggle.com/datasets/timesxy/bronchoscopic-dataset-bi2k.
+https://www.kaggle.com/datasets/timesxy/bronchoscopic-dataset-bi2k-benign-and-malignant.
