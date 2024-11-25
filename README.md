@@ -12,8 +12,9 @@ more details please see the requirements.txt
 
 ***
 ### Dataset: BI2K
-The bronchoscopic dataset comprises 2900 images from 615 cases in the Harbin Medical University Cancer Hospital, which include 1350 normal images and 1550 lesion images. For further details, kindly refer to the following paper:
+The bronchoscopic dataset comprises 2900 images, which include 1350 normal images, 600 benign lesion images, and 950 malignant lesion images. For further details, kindly refer to the following paper:
 
+An accurate prediction for respiratory diseases using deep learning on bronchoscopy diagnosis images.
 PKDN: Prior Knowledge Distillation Network for bronchoscopy diagnosis.  
 DOI: https://doi.org/10.1016/j.compbiomed.2023.107486.
 
